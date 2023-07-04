@@ -1,0 +1,4 @@
+[ 2023-07-04 13:54:37,329 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-04 13:54:37,363 ] 187 werkzeug - INFO -  * Debugger PIN: 264-117-041
+[ 2023-07-04 13:54:39,708 ] 8 root - INFO - we are testing our second methods of logging
+[ 2023-07-04 13:54:39,708 ] 187 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 13:54:39] "GET / HTTP/1.1" 200 -

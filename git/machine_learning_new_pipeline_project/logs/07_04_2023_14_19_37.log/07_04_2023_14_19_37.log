@@ -1,0 +1,4 @@
+[ 2023-07-04 14:19:37,659 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-04 14:19:37,671 ] 187 werkzeug - INFO -  * Debugger PIN: 264-117-041
+[ 2023-07-04 14:20:17,251 ] 15 root - INFO - Error occured in python scirpt name [C:\Users\Yaksha\Desktop\git\machine_learning_new_pipeline_project\app.py] line number [12] error Message [we are testing our custom file]
+[ 2023-07-04 14:20:17,252 ] 187 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 14:20:17] "GET / HTTP/1.1" 200 -

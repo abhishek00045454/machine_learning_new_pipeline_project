@@ -1,0 +1,8 @@
+[ 2023-07-04 13:54:19,329 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-04 13:54:19,374 ] 187 werkzeug - INFO -  * Debugger PIN: 264-117-041
+[ 2023-07-04 13:54:21,313 ] 8 root - INFO - we are testing our second methods of logging
+[ 2023-07-04 13:54:21,314 ] 187 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 13:54:21] "GET / HTTP/1.1" 200 -
+[ 2023-07-04 13:54:21,320 ] 8 root - INFO - we are testing our second methods of logging
+[ 2023-07-04 13:54:21,320 ] 187 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 13:54:21] "GET / HTTP/1.1" 200 -
+[ 2023-07-04 13:54:22,636 ] 187 werkzeug - INFO - 127.0.0.1 - - [04/Jul/2023 13:54:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-07-04 13:54:35,785 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\Yaksha\\Desktop\\git\\machine_learning_new_pipeline_project\\app.py', reloading
